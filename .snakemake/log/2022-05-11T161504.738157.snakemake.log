@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 4 of /home/bsl-bi/snake/snakefile.txt:
+Missing input files for rule all:
+plots/quals.svg
